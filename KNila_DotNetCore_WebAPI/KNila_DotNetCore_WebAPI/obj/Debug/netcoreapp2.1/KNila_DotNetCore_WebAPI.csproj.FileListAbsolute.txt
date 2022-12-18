@@ -1,0 +1,14 @@
+C:\Users\Regin\Downloads\KNila\KNila_DotNetCore_WebAPI\KNila_DotNetCore_WebAPI\bin\Debug\netcoreapp2.1\KNila_DotNetCore_WebAPI.deps.json
+C:\Users\Regin\Downloads\KNila\KNila_DotNetCore_WebAPI\KNila_DotNetCore_WebAPI\bin\Debug\netcoreapp2.1\KNila_DotNetCore_WebAPI.runtimeconfig.json
+C:\Users\Regin\Downloads\KNila\KNila_DotNetCore_WebAPI\KNila_DotNetCore_WebAPI\bin\Debug\netcoreapp2.1\KNila_DotNetCore_WebAPI.runtimeconfig.dev.json
+C:\Users\Regin\Downloads\KNila\KNila_DotNetCore_WebAPI\KNila_DotNetCore_WebAPI\bin\Debug\netcoreapp2.1\KNila_DotNetCore_WebAPI.dll
+C:\Users\Regin\Downloads\KNila\KNila_DotNetCore_WebAPI\KNila_DotNetCore_WebAPI\obj\Debug\netcoreapp2.1\KNila_DotNetCore_WebAPI.csprojAssemblyReference.cache
+C:\Users\Regin\Downloads\KNila\KNila_DotNetCore_WebAPI\KNila_DotNetCore_WebAPI\obj\Debug\netcoreapp2.1\KNila_DotNetCore_WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Regin\Downloads\KNila\KNila_DotNetCore_WebAPI\KNila_DotNetCore_WebAPI\obj\Debug\netcoreapp2.1\KNila_DotNetCore_WebAPI.RazorAssemblyInfo.cache
+C:\Users\Regin\Downloads\KNila\KNila_DotNetCore_WebAPI\KNila_DotNetCore_WebAPI\obj\Debug\netcoreapp2.1\KNila_DotNetCore_WebAPI.RazorAssemblyInfo.cs
+C:\Users\Regin\Downloads\KNila\KNila_DotNetCore_WebAPI\KNila_DotNetCore_WebAPI\obj\Debug\netcoreapp2.1\KNila_DotNetCore_WebAPI.AssemblyInfoInputs.cache
+C:\Users\Regin\Downloads\KNila\KNila_DotNetCore_WebAPI\KNila_DotNetCore_WebAPI\obj\Debug\netcoreapp2.1\KNila_DotNetCore_WebAPI.AssemblyInfo.cs
+C:\Users\Regin\Downloads\KNila\KNila_DotNetCore_WebAPI\KNila_DotNetCore_WebAPI\obj\Debug\netcoreapp2.1\KNila_DotNetCore_WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Regin\Downloads\KNila\KNila_DotNetCore_WebAPI\KNila_DotNetCore_WebAPI\bin\Debug\netcoreapp2.1\KNila_DotNetCore_WebAPI.pdb
+C:\Users\Regin\Downloads\KNila\KNila_DotNetCore_WebAPI\KNila_DotNetCore_WebAPI\obj\Debug\netcoreapp2.1\KNila_DotNetCore_WebAPI.dll
+C:\Users\Regin\Downloads\KNila\KNila_DotNetCore_WebAPI\KNila_DotNetCore_WebAPI\obj\Debug\netcoreapp2.1\KNila_DotNetCore_WebAPI.pdb
