@@ -1,0 +1,80 @@
+﻿@model ContactModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create</title>
+</head>
+<body>
+    <h2>Add New Contact</h2>
+    @using (Html.BeginForm("CreateContact", "Contact", FormMethod.Post))
+    {
+        <table border="1">
+            <tr>
+                <td>FirstName: </td>
+                <td>
+                    @Html.TextBoxFor(model => model.FirstName)
+                </td>
+            </tr>
+            <tr>
+                <td>LastName: </td>
+                <td>
+                    @Html.TextBoxFor(model => model.LastName)
+                </td>
+            </tr>
+            <tr>
+                <td>Email: </td>
+                <td>
+                    @Html.TextBoxFor(model => model.Email)
+                </td>
+            </tr>
+            <tr>
+                <td>PhoneNumber: </td>
+                <td>
+                    @Html.TextBoxFor(model => model.PhoneNumber)
+                </td>
+            </tr>
+            <tr>
+                <td>Address: </td>
+                <td>
+                    @Html.TextBoxFor(model => model.Address)
+                </td>
+            </tr>
+            <tr>
+                <td>City: </td>
+                <td>
+                    @Html.TextBoxFor(model => model.City)
+                </td>
+            </tr>
+            <tr>
+                <td>State: </td>
+                <td>
+                    @Html.TextBoxFor(model => model.State)
+                </td>
+            </tr>
+            <tr>
+                <td>Country: </td>
+                <td>
+                    @Html.TextBoxFor(model => model.Country)
+                </td>
+            </tr>
+            <tr>
+                <td>PostalCode: </td>
+                <td>
+                    @Html.TextBoxFor(model => model.PostalCode)
+                </td>
+            </tr>
+        </table>
+        <br/>
+        <input type="submit" value="Submit" />
+    }
+    <br/>
+    <div>
+        <h4><a asp-action="GetContactDetails">Go Back</a></h4>
+    </div>
+</body>
